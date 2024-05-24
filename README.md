@@ -29,3 +29,24 @@ Project Organization
     └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
                               generated with `pip freeze > requirements.txt`
 
+
+Resources
+------------
+
+[[1]](https://doi.org/10.48550/arXiv.1304.7535) Soklakov A., “Elasticity theory of structuring”, Risk, December (2016), 81-86. arXiv:1304.7535.
+
+[[2]](https://doi.org/10.48550/arXiv.1106.2882) Soklakov A., “Learning, investments and derivatives”, Risk, August (2010), arXiv:1106.2882v1 [q-fin.GN] 15 Jun 2011.
+
+[[3]](https://doi.org/10.1111/j.1540-6261.2004.00637.x) Robert R. Bliss, Nikolaos Panigirtzoglou, “Option-Implied Risk Aversion Estimates”, November (2015), 
+
+[[4]](https://econweb.rutgers.edu/mizrach/pubs/%5B42%5D-2010_Handbook.pdf) Mizrach, B. (2010). Estimating Implied Probabilities from Option Prices and the Underly- ing. In: Lee, CF., Lee, A.C., Lee, J. (eds) Handbook of Quantitative Finance and Risk Management. Springer, Boston, MA.
+
+
+Contributors
+------------
+
+Andreas Stavropoulos (@astavrop0), Petros Chatzopoulos (@w0oDy21)
+
+--------
+
+<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
