@@ -45,7 +45,7 @@ Resources
 Contributors
 ------------
 
-Andreas Stavropoulos (@astavrop0), Petros Chatzopoulos (@w0oDy21)
+Andreas Stavropoulos ([@astavrop0](https://github.com/astavrop0), Petros Chatzopoulos ([@w0oDy21](https://github.com/w0oDy21))
 
 --------
 
