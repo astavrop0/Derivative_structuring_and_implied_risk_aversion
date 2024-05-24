@@ -7,7 +7,7 @@ We begin by establishing a theoretical framework that includes the growth-optimi
 
 Our analysis employs both toy examples and real-world data applications. We demonstrate how quantitative structuring can better reflect shifts in market beliefs regarding expected value, volatility, and skewness compared to traditional ad hoc methods. For real-world data, we focus on the SPDR S&P 500 ETF Trust (SPY) to extract market-implied distributions and construct tailored structured products that align with specific investor profiles.
 
-Additionally, we explore the extraction of risk aversion profiles from existing financial products, such as reverse convertibles. By applying our framework, we identify the risk preferences implied by these products and compare them with the investors' stated beliefs.
+Additionally, we explore the extraction of risk aversion profiles from existing financial products, such as reverse convertibles. By applying our framework, we conduct an initial approach to identify the risk preferences implied by these products and compare them with the investors' stated beliefs.
 
 Our findings indicate that quantitative structuring can more accurately tailor financial products to meet investors' specific needs. This approach not only enhances the alignment of structured products with investor views but also suggests that traditional products may often be suboptimal. The results underscore the importance of incorporating both market data and individual risk preferences in product design.
 
@@ -21,7 +21,7 @@ Project Organization
     ├── LICENSE
     ├── README.md          <- The top-level README for developers using this project
     │
-    ├── data      
+    ├── data               <- SPY call option data used for the risk-neutral PDF via Breeden-Litzenberger
     │
     ├── notebooks          <- Jupyter notebooks with codes for the toy-examples and the real data applications
     │
