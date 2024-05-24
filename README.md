@@ -25,7 +25,7 @@ Project Organization
     │
     ├── notebooks          <- Jupyter notebooks with codes for our analysis
         └── Correspondence principle - Toy examples.ipynb              <- Codes and analysis of structured products on simulated market scenarios 
-    │   └── Real_data_applications.ipynb               <- Codes and analysis for structured products and risk extraction on SPY data
+    │   └── Real_data_applications.ipynb                               <- Codes and analysis for structured products and risk extraction on SPY data
     │
     ├── reports            <- Generated analysis as LaTeX report and beamer presentation
     │
